@@ -1,17 +1,16 @@
-# Spring REST 
-Repositório destinado ao curso "Especialista Spring REST" da AlgaWorks.
+# algaworks-spring-rest
+Este repositório armazena os artefatos produzidos durante o curso `Especialista Spring REST` da AlgaWorks.
 
-# Procedimentos iniciais
-Para obter uma cópia local, devidamente instalada e configurada, siga as instruções a seguir:
+## Como obter uma cópia
 
-## Clonagem
+Caso deseje obter uma cópia local:
 
-1. Clonar repositório:
-	```sh
-	git clone https://github.com/alexfdealmeida/algaworks-spring-rest.git
-	```
+  ```sh
+  git clone https://github.com/ALX-Courses/algaworks-spring-rest.git
+  ```
+  
+## Autor
+Alex Almeida
 
-2. Executar o script 'getting-started.sh' localizado no diretório raiz.
-	```sh
-	./getting-started.sh
-	```
+## Licença
+[MIT License](LICENSE)
